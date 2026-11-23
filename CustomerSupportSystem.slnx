@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AssignmentWorker/AssignmentWorker.csproj" />
+  <Project Path="NotificationService/NotificationService.csproj" />
+  <Project Path="SupportAPI/SupportAPI.csproj" />
+  <Project Path="SupportClient/SupportClient.csproj" />
+</Solution>
